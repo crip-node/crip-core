@@ -1,0 +1,34 @@
+{
+  "name": "crip-core",
+  "version": "1.0.0",
+  "description": "Crip core functionality for nodejs applications [see on GitHub](https://github.com/crip-node/crip-core)",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha ./tests/**/*-tests.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/crip-node/crip-core.git"
+  },
+  "keywords": [
+    "cripweb",
+    "webpack"
+  ],
+  "author": {
+    "name": "Igors Krasjukovs",
+    "email": "tahq69@gmail.com",
+    "url": "https://github.com/tahq69"
+  },
+  "license": "MIT",
+  "readmeFilename": "README.md",
+  "bugs": {
+    "url": "https://github.com/crip-node/crip-core/issues"
+  },
+  "homepage": "https://github.com/crip-node/crip-core#readme",
+  "devDependencies": {
+    "chai": "^3.5",
+    "chai-fs": "^0.1",
+    "sinon": "^1.17",
+    "sinon-chai": "^2.8"
+  }
+}
