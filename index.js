@@ -1,5 +1,6 @@
 var fs = require('fs');
-var path = require('path')
+var path = require('path');
+var colors = require('colors');
 
 var crip = {
 

@@ -1,6 +1,6 @@
 {
   "name": "crip-core",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Crip core functionality for nodejs applications [see on GitHub](https://github.com/crip-node/crip-core)",
   "main": "index.js",
   "scripts": {
@@ -30,5 +30,8 @@
     "chai-fs": "^0.1",
     "sinon": "^1.17",
     "sinon-chai": "^2.8"
+  },
+  "dependencies": {
+    "colors": "^1.1"
   }
 }
